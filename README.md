@@ -1,0 +1,2 @@
+# proxydnylangtest
+libproxydynlangのテストプログラム
