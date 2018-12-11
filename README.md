@@ -10,7 +10,8 @@ libproxydynlangのtestプログラムです。
 ## VS. ##
 
 ## Requirement ##
-libproxydynlangに依存する
+libproxydynlangに依存する  
+(https://github.com/siranovel/libproxydynlang.git)
 
 ## Usage ##
     $ proxydynlangtest  
