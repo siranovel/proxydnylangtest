@@ -3,7 +3,10 @@ proxydynlangtest
 libproxydynlangのtestプログラムです。
 
 ## Description ##
-libproxydynlangのtestプログラムです。
+![proxydynlangtest](images/ucProxyDynLangTest.jpg)  
+
+詳細は、
+https://github.com/siranovel/proxydnylangtest/wiki
 
 ## Demo ##
 
