@@ -4,6 +4,8 @@ libproxydynlangのtestプログラムです。
 
 ## Description ##
 ![proxydynlangtest](images/ucProxyDynLangTest.jpg)  
+![proxydynlangtest](images/ucProxyDynLangThreadTest.jpg)  
+![proxydynlangtest](images/ucProxyDynLangThread2test.jpg)  
 
 詳細は、
 https://github.com/siranovel/proxydnylangtest/wiki
