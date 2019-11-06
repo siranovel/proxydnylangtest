@@ -19,7 +19,7 @@ libproxydynlangに依存する
 (https://github.com/siranovel/libproxydynlang.git)
 
 ## Usage ##
-    $ proxydynlangtest  
+    $ proxydynlangtest  <テストファイル名>
 
 ## install ##
     git clone https://github.com/siranovel/proxydynlangtest.git  
