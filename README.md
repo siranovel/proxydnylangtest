@@ -1,13 +1,13 @@
 proxydynlangtest
 ==========
-libproxydynlangã®testãƒ—ãƒ­ã‚°ãƒ©ãƒ ã§ã™ã€‚
+libproxydynlang‚ÌtestƒvƒƒOƒ‰ƒ€‚Å‚·B
 
 ## Description ##
 ![proxydynlangtest](images/ucProxyDynLangTest.jpg)  
 ![proxydynlangtest](images/ucProxyDynLangThreadTest.jpg)  
 ![proxydynlangtest](images/ucProxyDynLangThread2test.jpg)  
 
-è©³ç´°ã¯ã€
+Ú×‚ÍA
 https://github.com/siranovel/proxydnylangtest/wiki
 
 ## Demo ##
@@ -15,19 +15,21 @@ https://github.com/siranovel/proxydnylangtest/wiki
 ## VS. ##
 
 ## Requirement ##
-libproxydynlangã«ä¾å­˜ã™ã‚‹  
+libproxydynlang‚ÉˆË‘¶‚·‚é  
 (https://github.com/siranovel/libproxydynlang.git)
 
 ## Usage ##
-    $ proxydynlangtest  <ãƒ†ã‚¹ãƒˆãƒ•ã‚¡ã‚¤ãƒ«å>
+    $ proxydynlangtest  <ƒeƒXƒgƒtƒ@ƒCƒ‹>
 
 ## install ##
     git clone https://github.com/siranovel/proxydynlangtest.git  
     cd proxydynlangtest  
-    rpm -ivh <rpmãƒ•ã‚¡ã‚¤ãƒ«å>  
+    rpm -ivh <rpmƒtƒ@ƒCƒ‹–¼>  
 
 ## Contribution ##
 
 ## Licence ##
 
 ## Author ##
+
+[siranovel](https://github.com/siranovel)
