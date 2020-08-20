@@ -30,6 +30,9 @@ libproxydynlang‚ÉˆË‘¶‚·‚é
 
 ## Licence ##
 
+[GPLv2](LICENSE)
+
+
 ## Author ##
 
 [siranovel](https://github.com/siranovel)
