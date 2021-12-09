@@ -8,7 +8,7 @@ libproxydynlangのtestプログラムです。
 ![proxydynlangtest](images/ucProxyDynLangThread2test.jpg)  
 
 詳細は、
-https://github.com/siranovel/proxydnylangtest/wiki
+https://siranovel.github.io/mydocs/proxydnylang/test  
 
 ## Demo ##
 
@@ -22,6 +22,7 @@ libproxydynlangに依存する
     $ proxydynlangtest  <テストファイル>
 
 ## install ##
+
     git clone https://github.com/siranovel/proxydynlangtest.git  
     cd proxydynlangtest  
     rpm -ivh <rpmファイル名>  
