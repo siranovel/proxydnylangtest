@@ -9,6 +9,7 @@ libproxydynlangのtestプログラムです。
 
 詳細は、
 https://siranovel.github.io/mydocs/proxydnylang/test  
+詳細は、https://siranovel.github.io/mydocs/proxydynlang/lib  
 
 
 ## Demo ##
