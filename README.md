@@ -8,8 +8,8 @@ libproxydynlangのtestプログラムです。
 ![proxydynlangtest](images/ucProxyDynLangThread2test.jpg)  
 
 詳細は、
-https://siranovel.github.io/mydocs/proxydnylang/test  
-詳細は、https://siranovel.github.io/mydocs/proxydynlang/lib  
+https://siranovel.github.io/mydocs/proxydynlang/test  
+ 
 
 
 ## Demo ##
